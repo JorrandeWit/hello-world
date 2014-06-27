@@ -1,5 +1,5 @@
 <?php
 
-We'll see 
+echo "We'll see"
 
 ?>
